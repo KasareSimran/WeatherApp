@@ -55,6 +55,7 @@ function Weather(){
                 location:data.name,
                 icon:icon
             })
+      
         // eslint-disable-next-line no-unused-vars
         }catch (error){
             setWeatherData(false);
