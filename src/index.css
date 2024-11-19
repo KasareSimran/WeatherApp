@@ -11,3 +11,11 @@
   background-color: #e2d4ff;
   font-family: "Poppins", sans-serif;
 }
+
+.title{
+  display: flex;
+  align-items: center;
+ justify-content: center;
+ font-size: 2rem;
+ color:#3c0ea1;
+}
